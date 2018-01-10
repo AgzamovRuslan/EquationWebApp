@@ -7,6 +7,6 @@
         <h1>Решатель квадратных уравнений</h1>
         <p>${answer}</p>
 
-        <button onclick="location.href='index.jsp'">Заново</button>
+        <button onclick="location.href='/'">Заново</button>
     </body>
 </html>
